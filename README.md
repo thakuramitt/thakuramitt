@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[Gmail](tamitsingh.io@gmail.com "Mail Hi")
+Gamil - tamitsingh.io@gmail.com
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
