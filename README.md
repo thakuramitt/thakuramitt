@@ -20,5 +20,6 @@ Gamil - tamitsingh.io@gmail.com
 
 <!-- BLOG-POST-LIST:START -->
 - [NPM vs YARN](https://medium.com/@tamitsingh.io/introduction-4e9401b5cfd3)
+- [Map(),Filter(),Reduce()] (https://medium.com/@tamitsingh.io/map-filter-reduce-8d65bec2a46d)
 <!-- BLOG-POST-LIST:END -->
 
