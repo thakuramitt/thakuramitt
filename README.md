@@ -1,9 +1,7 @@
 ### Hello there, I'm Thakur Amit  👋
 
-- 🌱 I’m currently learning everything 🤣.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I play a lot of games, ping me up for some action.
+- 🌱 I’m currently learning Python and Golang.
+- 🥅 2024 Goals: Contribute to Open Source projects and enhance my development skills.
 
 
 ### Connect with me:
